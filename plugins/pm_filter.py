@@ -504,7 +504,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⭕ Status', url='https://t.me/NVSHDMOVIELOG'),
+            InlineKeyboardButton('⭕ Status', callback_data='stats'),
             InlineKeyboardButton('Source 🪤', callback_data='source')
             ],[
             InlineKeyboardButton('❓ How to Use ❓', callback_data='help')
