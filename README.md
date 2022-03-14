@@ -1,4 +1,9 @@
-# Telegram Movie Bot
+<h1 align="center">
+  <b>ZERO 2 BOT</b>
+</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghostediting/EvaMaria/master/assets/logo.jpg" alt="Eva Maria Logo">
+</p>
 
 ## Features
 
